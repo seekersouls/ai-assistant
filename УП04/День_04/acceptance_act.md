@@ -4,7 +4,7 @@
 
 **Дата:** 22.11.2026
 
-**Репозиторий:** https://github.com/seekersouls/ai-assistant.git
+**Репозиторий:** https://github.com/seekersouls/ai-assistant/tree/main/%D0%A3%D0%9F01/AI-Agent
 
 **Разработчик:** Сардарь Надежда
 
