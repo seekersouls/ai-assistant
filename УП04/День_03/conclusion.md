@@ -6,7 +6,7 @@
 
 Назначение: Создание оригинальных художественных персонажей и психологический анализ их поведения, мотивации и отношений.
 
-Ссылка на проект: (https://github.com/seekersouls/ai-assistant.git).
+Ссылка на проект: https://github.com/seekersouls/ai-assistant/tree/main/%D0%A3%D0%9F01/AI-Agent
 
 Дата: 19.11.2026.
 
