@@ -43,13 +43,45 @@
 
 ## 6. Установка и настройка
 
-1. Создать виртуальное окружение.
-2. Установить необходимые библиотеки из requirements.txt.
-3. Создать файл `.env` на основе `.env.example`.
-4. Заполнить переменные GIGACHAT_CREDENTIALS и GIGACHAT_SCOPE.
-5. Убедиться, что сертификат находится в папке `certs/`.
+Ссылка на репозиторий: https://github.com/seekersouls/ai-assistant/tree/main/%D0%A3%D0%9F01/AI-Agent
 
-Секретные данные нельзя публиковать в GitHub.
+1. Переход в папку агента:
+### Windows (PowerShell)
+
+```powershell
+cd .\УП01\AI-Agent
+```
+
+### Linux
+
+```bash
+cd УП01/AI-Agent
+```
+
+3. Создать виртуальное окружение.
+### Windows (PowerShell)
+
+```powershell
+py -m venv .venv
+```
+
+### Linux
+
+```bash
+python3 -m venv .venv
+```
+   
+4. Установить необходимые библиотеки из requirements.txt.
+   
+6. Создать файл `.env` на основе:
+GIGACHAT_CREDENTIALS=
+GIGACHAT_SCOPE=
+   
+8. Заполнить переменные GIGACHAT_CREDENTIALS и GIGACHAT_SCOPE.
+   
+9. Убедиться, что сертификат находится в папке `certs/`.
+    
+
 
 ## 7. Запуск программы
 
