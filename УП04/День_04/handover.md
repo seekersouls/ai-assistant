@@ -4,7 +4,7 @@
 
 Проверяющий: Самопроверка автором проекта.
 
-Ссылка на репозиторий: https://github.com/seekersouls/ai-assistant.git
+Ссылка на репозиторий: https://github.com/seekersouls/ai-assistant/tree/main/%D0%A3%D0%9F01/AI-Agent
 
 Удалось найти точку входа: да, main.py.
 
