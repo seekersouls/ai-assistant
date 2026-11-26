@@ -1,0 +1,8 @@
+services:
+  agent:
+    build: .
+    image: my-ai-agent:1.0
+    env_file:
+      - .env
+    stdin_open: true
+    tty: true
